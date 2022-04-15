@@ -1,4 +1,4 @@
-﻿﻿name of the week,Hour,Weekday/Weekend,Distinct count of Trip Id
+﻿﻿name of the week,Hour,Weekday/Weekend,CompletedTrips
 Saturday,23,Weekend,"19,523"
 Sunday,23,Weekend,"9,860"
 Saturday,22,Weekend,"25,038"
